@@ -1,2 +1,2 @@
 # Nextwayve
-Predictions for popularity of sport events
+Our algorighm uses historical data and machine-learning analysis to predict how likely it is to get into any individual UC school.
