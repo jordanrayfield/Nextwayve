@@ -24,7 +24,7 @@ for i in theSchool:
 cs = l1_min_c(X, y, loss='log') * np.logspace(0, 3)
 
 
-print("Not 100% sure what's happening")
+print("Printing chart")
 start = datetime.now()
 clf = linearmodel.LogisticRegression(C=1.0, penalty='l1', tol=1e-6)
 coefs = []
